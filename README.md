@@ -59,6 +59,6 @@ This project is ideal for:
 
 The analysis provides:
 
-- A snapshot of NYC Airbnb pricing and availability
+- A description of NYC Airbnb pricing and availability
 - Insights into host engagement and guest review patterns
 - Recommendations for pricing strategies and market positioning
